@@ -1,6 +1,4 @@
-# CSF-Net-_2026
-
-# CSF-Net++: CSF-Net: Clinical-Guided Spatiotemporal Dual-Configuration Network for Liver Tumor Segmentation 
+# CSF-Net++: Clinical-Guided Spatiotemporal Dual-Configuration Network for Liver Tumor Segmentation 
 
 <center>
   <img src="https://github.com/jylEcho/ICLR26_CSF-Net/blob/main/img/V11.0.png?raw=true" width="800" alt="">
